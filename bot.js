@@ -1,9 +1,6 @@
 ;(function(window, undefined){
 /*
 * script for js/css parallel loading with dependencies management
-* @author Isaac Belly <isaac@isaacbelly.com>
-* @contributors ivanrey, AlexGal0, Isaac Bely
-* @maintainer Isaac Bely <isaac@isaacbelly.com>
 * @licence dual licence MIT / GPL
 * @since 2012-04-12
 * @lastmodified 2025-07-13

@@ -9,7 +9,7 @@ q# bot.js – Lightweight JavaScript & CSS Loader with Dependency Management
 - CDN fallback handling
 - Cross-browser compatibility
 
-> Originally developed by [Isaac Belly](https://github.com/m1a-bot)
+> Originally developed by [m1a-bot](https://github.com/m1a-bot)
 
 ---
 
